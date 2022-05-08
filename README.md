@@ -16,8 +16,4 @@ Convert the bmp file to a binary string and use png encoder to find a compressed
 
 # LOSSLESS-IMAGE-COMPRESSION
 ## EXPERIMENT 4:
-Read an image from an existing .png file. Compress this image data to a sequence of bytes. Compression technique to be used in this experiment is JPEG-LS. Note the size of the image before compression and after compression for:
-RGB Image
-PNG encoded file 
-JPEG-LS encoded file
-Now obtain PSNR values of the encoded files before and after compression. State your reasons for conclusion.
+Read an image from an existing .png file. Compress this image data to a sequence of bytes. Compression technique to be used in this experiment is JPEG-LS. Note the size of the image before compression and after compression for the RGB Image , PNG encoded file and JPEG-LS encoded file. Now obtain PSNR values of the encoded files before and after compression. State your reasons for conclusion.
